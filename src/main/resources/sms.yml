@@ -1,0 +1,8 @@
+shop:
+  branch:
+    main:
+      host: main branch host
+      description: this is branchA
+    geomdan:
+      host: main branch host
+      description: this is branchB
